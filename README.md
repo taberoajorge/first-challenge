@@ -4,7 +4,7 @@
 
 ## Bienvenida/o 👋
 
-El resultado y contendio mostrado en este repositorio es porducto del primer reto de la escuela de desarrollo de platzi
+El resultado y contenido mostrado en este repositorio es porducto del primer reto de la escuela de desarrollo de platzi.
 
 ## Github pages 
 
