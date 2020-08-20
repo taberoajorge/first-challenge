@@ -9,6 +9,7 @@
     body {
         background-color: hsl(228, 45%, 44%);
         background-image: url(./images/bg-mobile.svg);
+        background-repeat: no-repeat;
     }
     .logo {
         display: flex;
@@ -247,8 +248,7 @@
         display: flex;
         justify-content: center;
         margin-bottom: -50px;
-        /*
-        padding: 20px; */
+        padding: 20px;
     }
 
     .main-principal-text__container h1 {
